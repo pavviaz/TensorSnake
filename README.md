@@ -4,7 +4,7 @@
 
 
 **Install dependency:**
-
+You need Python (64-bit) >= 3.8.0
 To install all required modules, just enter the repo folder and type:
 ```bash
 py -m pip install -r requirements.txt
