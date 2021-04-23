@@ -1,0 +1,9 @@
+model_name = example_model
+rewrite_model = False
+GPU_usage = False
+snake_color = (255, 255, 0)
+snack_color = (255, 0, 0)
+possible_steps_const = 200
+learning_rate = 100
+epochs = 500
+iterations_limit = 35
