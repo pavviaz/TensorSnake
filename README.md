@@ -7,7 +7,7 @@
 
 To install all required modules, just enter the repo folder and type:
 ```bash
-py -m pip install -r requirement.txt
+py -m pip install -r requirements.txt
 ```
 This will install Tensorflow, numpy and PyGame modules
 
